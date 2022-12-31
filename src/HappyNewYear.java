@@ -1,0 +1,1 @@
+class HelloWord{ public static void main(String[] args){ System.out.println("Happy New Year!"); System.out.println("Hello 2023!"); System.out.println("希望新年一切顺利，健健康康！"); }}
